@@ -1,0 +1,3 @@
+What is SQL?
+• A language used for relational databases
+• Query data
